@@ -1,0 +1,12 @@
+export const ADMIN_ROUTE = "/admin"
+export const LOGIN_ROUTE = "/login"
+export const REGISTRATION_ROUTE = "/registration"
+export const MAIN_ROUTE = "/"
+export const CART_ROUTE = "/cart"
+export const TRACKS_ROUTE = "/tracks"
+export const TRACKPAGE_ROUTE = "/track"
+export const UPLOAD_ROUTE = "/upload"
+export const PROFILE_ROUTE = "/profile"
+export const MESSAGER_ROUTE = "/messages"
+export const PERFORMER_ROUTE = "/performer"
+export const ORDERING_ROUTE = '/checkout';
